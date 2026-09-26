@@ -1,0 +1,6 @@
+{
+  "name": "VHAT StockSense",
+  "description": "Modular web-based Inventory Management System for tracking multi-warehouse stock, receipts, delivery orders, internal transfers, adjustments, and movement history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
