@@ -1,0 +1,6 @@
+{
+  "name": "VHAT StockSense - Inventory Management System",
+  "description": "Modular web-based Inventory Management System with real-time stock tracking, operations (Receipts, Deliveries, Transfers, Adjustments), Warehouses & Locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
